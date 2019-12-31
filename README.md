@@ -1,9 +1,8 @@
 ## Praktikum Teknologi Cloud
 
 1. Materi Praktikum 1: Instalasi Git
-URL: [klik di sini](https://github.com/evamahrani/tcc)
-Ringkasan: Menginstal git pada windows.
-   
+   URL: [klik di sini](https://github.com/evamahrani/tcc)
+   Ringkasan: Menginstal git pada windows.
 2. Materi Praktikum 2: Konfigurasi Git
    URL: [klik di sini](https://github.com/evamahrani/tcc)
    Ringkasan: User harus memberitahu Git tentang username serta email yang digunakan setiap kali terjadi perubahan pada repo Git.
